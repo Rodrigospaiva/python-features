@@ -1,0 +1,9 @@
+1	elevado á 2	=	1
+2	elevado á 2	=	4
+3	elevado á 2	=	9
+4	elevado á 2	=	16
+5	elevado á 2	=	25
+6	elevado á 2	=	36
+7	elevado á 2	=	49
+8	elevado á 2	=	64
+9	elevado á 2	=	81
